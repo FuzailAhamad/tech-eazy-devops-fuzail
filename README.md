@@ -34,7 +34,7 @@ This project is a submission for the **TechEazy DevOps Assignment**, which demon
   - Runs the app on port 80
     
 4. **Public IP is displayed in terminal :**
-    http://<your-ec2-public-ip>
+    http://your-public-ip
 
 
 <h3>✅ Assignment Requirements Covered </h3>
