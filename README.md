@@ -34,7 +34,8 @@ This project is a submission for the **TechEazy DevOps Assignment**, which demon
   - Runs the app on port 80
     
 4. **Public IP is displayed in terminal :**
-    http://your-public-ip
+    - You can access the app at: `http://<EC2-PUBLIC-IP>/hello`  
+  ✅ This returns: **Hello from Spring MVC!**
 
 
 <h3>✅ Assignment Requirements Covered </h3>
