@@ -1,5 +1,5 @@
 resource "aws_security_group" "web_sg" {
-  name        = "web-sg"
+  name        = "web-sg-${var.stage}"  # dynamic SG name to avoid conflicts
   description = "Allow HTTP and SSH"
 
   ingress {
